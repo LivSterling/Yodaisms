@@ -40,8 +40,8 @@ Yodaisms is a whimsical frontend web app that transforms profound Zen quotes int
 
 ## Screenshots
 
-<img src="img/yoda-pic-1.png" alt="The site">
-<img src="img/yoda-pic-2.png" alt="The site with a generated quote">
+<img src="img/yoda-pic-2.png" alt="The site">
+<img src="img/yoda-pic-1.png" alt="The site with a generated quote">
 
 ## Future Improvements
 
