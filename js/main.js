@@ -71,10 +71,10 @@ setTimeout(function(){
   function togglePlayPause() {
     if (music.paused) {
       music.play(); 
-      button.innerHTML = 'Pause'; 
+      button.innerHTML = 'Play'; 
     } else {
       music.pause(); 
-      button.innerHTML = 'Play'; 
+      button.innerHTML = 'Pause'; 
     }
   }
 
